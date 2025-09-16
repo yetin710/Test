@@ -1,2 +1,8 @@
 fastapi
-uvicorn
+uvicorn[standard]
+numpy
+torch
+torchaudio
+pydantic
+resemblyzer
+speechbrain
